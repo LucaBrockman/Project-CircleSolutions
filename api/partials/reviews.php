@@ -12,7 +12,7 @@
                 <div class="carousel_slides" id="carousel_slides">
                     <?php
                         // Getting the json
-                        $jsonData = file_get_contents('./data/reviews.json');
+                        $jsonData = file_get_contents('../data/reviews.json');
                         // Decode the json file so it can be used in php
                         $reviews = json_decode($jsonData, true);
                         // Filters the bad reviews out

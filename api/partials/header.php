@@ -11,7 +11,7 @@
                 ?>
                 <h3>Ons doel is om software te ontwikkelen die past bij de individuele kwaliteiten van individuele
                     behoeften. Mensen en bedrijven sterker maken met softwareoplossingen.</h3>
-                <a class="circle_button" href="#about-us">beginnen</a>
+                <a class="circle_button" href="#about_us">beginnen</a>
             </div>
             <div class="banner_image">
                 <img src="./img/hero.svg" alt="hero" id="headerimg">
