@@ -41,12 +41,12 @@
     include "partials/hamburger.php";
 
     ?>
-    <script src="./js/carousel.js"></script>
-    <script src="./js/faq.js"></script>
-    <script src="./js/navScroll.js"></script>
-    <script src="./js/contact.js"></script>
-    <script src="./js/darkmode.js"></script>
-    <script src="./js/nav.js"></script>
+    <script src="../js/carousel.js"></script>
+    <script src="../js/faq.js"></script>
+    <script src="../js/navScroll.js"></script>
+    <script src="../js/contact.js"></script>
+    <script src="../js/darkmode.js"></script>
+    <script src="../js/nav.js"></script>
 </body>
 
 </html>

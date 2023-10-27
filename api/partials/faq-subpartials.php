@@ -1,6 +1,6 @@
 <?php
     // Getting the json
-    $jsonData = file_get_contents('./data/faq.json');
+    $jsonData = file_get_contents('../data/faq.json');
     // Decode the json file so it can be used in php
     $faqs = json_decode($jsonData, true);
     $location = 0;
